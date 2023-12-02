@@ -23,7 +23,7 @@ print("{:.2f}".format(ans))
 # 2-Norm of a Matrix
 '''
 Program to find 2-norm of a matrix.
-Developed by: venkat sai
+Developed by: singamala venkata sai kumar reddy
 RegisterNumber: 23004205
 '''
 import numpy as np
@@ -35,7 +35,10 @@ print("{:.2f}".format(ans))
 
 
 # Infinity Norm of a Matrix
-
+'''
+program to find 3-Norm of matrix
+Developed by:singamala venkata sai kumar reddy
+reference no:23004205
 
 import numpy as np
 mat=np.array(eval(input()))
