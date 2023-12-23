@@ -36,7 +36,7 @@ print("{:.2f}".format(ans))
 
 # Infinity Norm of a Matrix
 '''
-program to find 3-Norm of matrix
+program to find infinity-Norm of matrix
 Developed by:singamala venkata sai kumar reddy
 reference no:23004205
 
@@ -50,20 +50,22 @@ print("{:.2f}".format(ans))
 ## Output:
 ### 1-Norm of a Matrix
 
-![Screenshot 2023-12-02 165611](https://github.com/23004205/Norm-of-a-matrix/assets/138971114/bf76227f-cb34-417a-ba1b-2893228b7cbb)
+![Screenshot 2023-12-23 160237](https://github.com/23004205/Norm-of-a-matrix/assets/138971114/943ae508-c154-4b71-bb1f-9638f0d7bf46)
 
 
 
 ### 2-Norm of a Matrix
 
-![maths norm](https://github.com/23004205/Norm-of-a-matrix/assets/138971114/df5c5e70-a66b-46d1-af53-549c86a75707)
+
+![Screenshot 2023-12-23 160641](https://github.com/23004205/Norm-of-a-matrix/assets/138971114/eb909937-c463-4aed-8203-24affdefa750)
 
 
 
 ### Infinity Norm of a Matrix
 
+![Screenshot 2023-12-23 160715](https://github.com/23004205/Norm-of-a-matrix/assets/138971114/85efb81c-19e6-4d85-8090-a54a4203e271)
 
-![maths 2 norm](https://github.com/23004205/Norm-of-a-matrix/assets/138971114/83f5d4fa-e1f1-4aee-bce0-d40055315577)
+
 
 
 ## Result
